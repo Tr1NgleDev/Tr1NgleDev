@@ -1,11 +1,4 @@
-### Hi there 👋
- - 🌱 I’m currently learning C# (Unity)
+### Tr1NgleDev
 
-<!--
-**Tr1NgleBoss/Tr1NgleBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
--->
+- Currently working on **[Tr1NgleEngine](https://github.com/Tr1NgleDev/Tr1Ngle-Engine)**
+- Coding in **C#, C++, C, Haxe, Java, GLSL** langs

@@ -1,6 +1,6 @@
 ### Tr1NgleDev
 
-- Currently working on **[4D-Modding](https://www.4d-modding.com)** and **NULL**
+- Currently working on **[4D-Modding](https://4d-modding.com)** and **NULL**
 - Coding in **C#, C++, C, Haxe, Java, GLSL** langs
 
 

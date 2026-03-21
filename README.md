@@ -1,7 +1,7 @@
 ### Tr1NgleDev
 
 - Currently working on **[4D-Modding](https://4d-modding.com)** and **NULL**
-- Coding in **C#, C++, C, Haxe, Java, GLSL** langs
+- Coding in **C++, C#, GLSL, C, Java** langs
 
 
 [![Tr1NgleDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr1NgleDev&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
